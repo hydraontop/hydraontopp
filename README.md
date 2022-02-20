@@ -1,16 +1,16 @@
 <h1 align="center">hydraontopp</h1>
 <h3 align="center">my official github page</h3>
 
-- Coding Lots Of Utilitys
+- working on utility mods 
 
-- Developing **Utility Mods, Websites & Anti-Cheat**
+- working on behavior packs, anti cheat, and websites
 
-- How to Contact me **hydraontopp#9999.**
+- contact me **hydraontopp#9999.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_HydraOnTopp_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/HydraOnTopp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="UCYy2GlKEObVY024BoCfijdg" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/hydraontopp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="UCYy2GlKEObVY024BoCfijdg" height="30" width="40" /></a>
 <a href="https://discord.gg/hydraontopp#0009" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="discord" height="30" width="40" /></a>
 </p>
 
@@ -19,9 +19,9 @@
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=hydraontop&show_icons=true&theme=radical)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=hydraontopp&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hydraontop&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hydraontopp&layout=compact)
 
 
 <summary> <strong></strong> </summary>
