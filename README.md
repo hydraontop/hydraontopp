@@ -29,6 +29,7 @@
   <img src="https://discord.c99.nl/widget/theme-3/723581777486282812.png"/>
  </p>
 
+<h3 align="left">new account lol</h3>
  <summary> <strong></strong> </summary>
  <p align="center">
   <img src="https://discord.c99.nl/widget/theme-3/905891538532454461.png"/>
